@@ -1,25 +1,12 @@
+__pycache__/
+
 .idea/
 .idea/*
 
-lib/
-lib/*
-
-*.py[cod]
 *.pyc
-
-bin/
-bin/*
-
-share/
-share/*
-
-local/
-local/*
-
-include/
-include/*
-
+*.pyo
 
 venv/
+
 .pytest_cache/
 
