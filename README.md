@@ -1,2 +1,5 @@
-# humanize_calculator
+# Humanize Calculator
 ---
+### Setup:
+---
+    git clone 
